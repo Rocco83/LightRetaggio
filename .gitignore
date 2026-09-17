@@ -1,0 +1,7 @@
+.DS_Store
+
+# KiCad transient/local files
+*.lck
+_autosave-*
+*-backups/
+fp-info-cache

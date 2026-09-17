@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "LightRetaggioSchema") (type "KiCad") (uri "${KIPRJMOD}/LightRetaggioSchema.pretty") (options "") (descr "Footprints imported from the original Eagle project"))
+)
